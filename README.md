@@ -4,6 +4,9 @@
 ## Description
 Add "Open Windows Terminal" into the right-click context menu using the batch file.
 
+![](https://raw.githubusercontent.com/ngocleek/windows-terminal-context-menu/ca4f5f067574c52412bd77648ef590b52b2c8ee8/demo.png)
+
+
 ### Requirement
 
 ***1. Windows Terminal***
